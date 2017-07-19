@@ -5,3 +5,6 @@ body{
 body img{
     height: 300px;
 }
+images{
+    float: left;
+}
